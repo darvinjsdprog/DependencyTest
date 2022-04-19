@@ -1,0 +1,16 @@
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\bin\Debug\net5.0\DependencyTest.exe
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\bin\Debug\net5.0\DependencyTest.deps.json
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\bin\Debug\net5.0\DependencyTest.runtimeconfig.json
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\bin\Debug\net5.0\DependencyTest.runtimeconfig.dev.json
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\bin\Debug\net5.0\DependencyTest.dll
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\bin\Debug\net5.0\ref\DependencyTest.dll
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\bin\Debug\net5.0\DependencyTest.pdb
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\obj\Debug\net5.0\DependencyTest.csproj.AssemblyReference.cache
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\obj\Debug\net5.0\DependencyTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\obj\Debug\net5.0\DependencyTest.AssemblyInfoInputs.cache
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\obj\Debug\net5.0\DependencyTest.AssemblyInfo.cs
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\obj\Debug\net5.0\DependencyTest.csproj.CoreCompileInputs.cache
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\obj\Debug\net5.0\DependencyTest.dll
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\obj\Debug\net5.0\ref\DependencyTest.dll
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\obj\Debug\net5.0\DependencyTest.pdb
+C:\Users\Darvin Segura\source\repos\DependencyTest\DependencyTest\obj\Debug\net5.0\DependencyTest.genruntimeconfig.cache
